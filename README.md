@@ -35,3 +35,16 @@ Para rodar o notebook Python localmente ou em nuvem, siga os passos abaixo:
 
 ### Opção 2: Execução Local (Jupyter Notebook)
 **Pré-requisitos:** É necessário ter o Python e o Jupyter instalados na sua máquina.
+1. Clone este repositório usando o comando:
+   git clone 
+2. Navegue até a pasta do projeto e inicie o ambiente:
+   jupyter notebook
+3. No navegador, abra o arquivo `.ipynb` e execute as células.
+
+Prints:
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/102bce34-54be-4d35-8091-8515b29b9adc" />
+   -
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0d8f8c2c-24c6-4313-83bb-db0425a8a422" />
+
+
